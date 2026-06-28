@@ -1,4 +1,4 @@
-# 
+# Turbo Blender plugins para Mac OS | Ultimato Blender plugins para PC Windows. Com modelagem 3D e ajuste de curvas — otimizado para máximo desempenho em cada plataforma.
 
 
 
